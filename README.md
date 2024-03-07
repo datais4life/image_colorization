@@ -16,8 +16,8 @@ The dataset for this project comes from the CIFAR-10 dataset, containing 60,000 
 U-Net Convolutional Neural Network
 
 # Model Training
-![Training Metrics](images/Training_metrics.jpg)
+![Training Metrics](images/Training_metrics.png)
 Following 100 epochs, the training and validation loss metrics are graphed to show the performance of the model. 
 
 # Model Evaluation
-![Output Samples](images/Output.jpg)
+![Output Samples](images/Output.png)
